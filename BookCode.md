@@ -36,7 +36,7 @@ Entire numbers in code column of the TidyD replaced with corresponding activity 
 
 ## Labels the data set with descriptive variable names
 - code column in TidyData renamed into activities
-- variable names were rearanged as following:
+- variable names were rearanged as following: <br/>
     Acc into Accelerometer <br/>
     Gyro into Gyroscope <br/>
     BodyBody into Body <br/>
