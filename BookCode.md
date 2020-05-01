@@ -37,14 +37,14 @@ Entire numbers in code column of the TidyD replaced with corresponding activity 
 ## Labels the data set with descriptive variable names
 - code column in TidyData renamed into activities
 - variable names were rearanged as following:
-    Acc into Accelerometer
-    Gyro into Gyroscope
-    BodyBody into Body
-    Mag into Magnitude
-    characters starting in t renamed into Time
-    characters starting in f renamed into Frequency
+    Acc into Accelerometer <br/>
+    Gyro into Gyroscope <br/>
+    BodyBody into Body <br/>
+    Mag into Magnitude <br/>
+    characters starting in t renamed into Time <br/>
+    characters starting in f renamed into Frequency <br/>
     characters starting in lower case reseted to start with upper case
     
 ## Tidy data set with the average of each variable for each activity and each subject
-Final_Data (180 rows, 88 columns) was created by sumarizing TidyD taking the means of each variable for each activity and each subject, after groupped by subject and activity.
+Final_Data (180 rows, 88 columns) was created by sumarizing TidyD taking the means of each variable for each activity and each subject, after groupped by subject and activity. <br/>
 Finally, exported Final_Data into Final_Data.txt file.
