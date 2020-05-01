@@ -22,7 +22,7 @@ recorded features train data
 train data of activitie´s code label
 
 # Merges the training and the test sets to create one data set
-X (10299 rows, 561 col) was created by merging xTrain and xTest using rbind() function
+X (10299 rows, 561 col) was created by merging xTrain and xTest using rbind() function //end
 Y (10299 rows, 1 col) was created by merging yTrain and yTest using rbind() function
 
 Subject (10299 rows, 1 col) was created by merging subjectTrain and subjectTest using rbind() function
